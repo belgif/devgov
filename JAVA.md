@@ -4,9 +4,11 @@
 
 ### Cryptography
 - [Bouncy Castle](https://www.bouncycastle.org/): lightweight cryptography API and generators/processors for OCSP, TSP, DANE, ...
+- [SSHJ](https://github.com/hierynomus/sshj): scp/sftp implementation with support for OpenPGP private keys
 
 ### Files
 
+- [Aalto XML](https://github.com/FasterXML/aalto-xml): high performance Stax XML processor implementation (basic Stax API and Stax2 extension)
 - [Apache PDF Box](https://pdfbox.apache.org/): low-level library for writing (and to some degree editing) PDF files, can also be used to add digital signatures to PDF
 - [FastCSV](https://github.com/osiegmar/FastCSV): dependency-free RFC 4180 compliant CSV library for Java
 
