@@ -2,8 +2,9 @@
 
 ## Tools and libraries
 
-### Cryptography
+### Cryptography 
 - [Bouncy Castle](https://www.bouncycastle.org/): lightweight cryptography API and generators/processors for OCSP, TSP, DANE, ...
+- [Pac4j](https://www.pac4j.org): security framework for Spring/Spring Boot, Vert.x... supporting OAuth, OpenID Connect, SAML, JWT...
 - [SSHJ](https://github.com/hierynomus/sshj): scp/sftp implementation with support for OpenPGP private keys
 
 ### Files
